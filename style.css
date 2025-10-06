@@ -1,0 +1,282 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+:root {
+    --primary-color: #34547a;
+    --white: #ffffff;
+    --black: #000000;
+    --grey-dark: #727272;
+    --grey-light: #eeeff1;
+    --font-size:16px;
+}
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    src: url('https://fonts.googleapis.com/css2?family=Roboto:ital,wdth@0,75..100;1,75..100&display=swap'),
+url('./roboto/regular/Roboto-Regular.eot'), /* IE9 Compat Modes */
+url('./roboto/regular/Roboto-Regular.woff') format('woff'), /* Pretty Modern Browsers */
+url('./roboto/regular/Roboto-Regular.ttf') format('truetype'), /* Safari, Android, iOS */
+url("./roboto/regular/Roboto-Regular.otf") format("opentype");
+
+
+}
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    src: url('https://fonts.googleapis.com/css2?family=Roboto:ital,wdth,wght@0,75..100,500;1,75..100,500&display=swap'),
+url('./roboto/medium/Roboto-Medium.eot'), /* IE9 Compat Modes */
+url('./roboto/medium/Roboto-Medium.woff') format('woff'), /* Pretty Modern Browsers */
+url('./roboto/medium/Roboto-Medium.ttf') format('truetype'), /* Safari, Android, iOS */
+url("./roboto/Medium/Roboto-Medium.otf") format("opentype");
+
+}
+h1 h2 h3{
+    font-weight: 500;
+}
+h1{
+    line-height: 1.64;
+}
+h2{
+    line-height: 1;
+}
+h3{
+    font-size: 1.3125rem;
+}
+p{
+    font-family: "Roboto", sans-serif;
+    width: 400px;
+    line-height: 1.64;
+    font-size: 1rem;
+}
+.text-center {
+    text-align: center;
+}
+.header{
+    background-color: var(--grey-light);
+    padding: 79px 0 141px 5px;
+}
+.container{
+    max-width: 1120px;
+    margin-inline: auto;
+
+}
+html {
+    font-size: var(--font-size);
+    font-family: "Roboto", sans-serif;
+}
+.navigation{
+    text-transform: uppercase;
+}
+
+a{
+    text-decoration: none;
+}
+nav{
+text-transform: uppercase;
+}
+button{
+    border: none;
+    cursor: pointer;
+}
+.description {
+    width: 540px;
+    color: var(--grey-dark);
+}
+.header__title{
+ padding-left: 2px;
+    margin-top: 144px;
+    margin-bottom: 35px;
+    color: var(--black);
+    font-size: 3rem;
+    letter-spacing: 0;
+}
+.header__description{}
+.header__btn{
+    background-color: var(--primary-color);
+    color: var(--white);
+    width: 225px;
+    height: 65px;
+    font-size: 1rem;
+    letter-spacing: 1px;
+    margin-top: 59px;
+    font-weight: 400;
+
+
+}
+/*navigation*/
+.navigation__list{
+    display: flex;}
+ul{
+    list-style: none;
+    line-height: 1.64;
+
+}
+.navigation__item{}
+.navigation__item--active .navigation__link {
+    color: var(--primary-color);
+}
+.navigation__link{
+    color: var(--black);
+    font-weight: 400;
+    letter-spacing: 1px;
+    line-height: 1.64;
+    font-size: 1.001rem;
+
+
+
+}
+
+.navigation__item:first-child {
+    padding-left: 2px;
+    padding-right: 25px;
+}
+.navigation__item ~ .navigation__item {
+    padding: 0 29px;
+}
+
+/*About me*/
+.About {
+    padding: 112px 0 90px 0;
+}
+    .About__title {
+        margin-bottom: 42px;
+        color: var(--black);
+        font-size: 2rem;
+        font-weight: 500;
+    }
+.About__description {
+
+    margin: 0 auto;
+}
+
+
+
+/*progekt*/
+.Works{
+    background: var(--primary-color);
+
+    padding: 100px 0 100px 0;
+}
+.container__project{
+
+    display: flex;
+}
+.card{
+
+}
+.container__project__cart{
+    width: 140px;
+    height: 50px;
+
+    display: flex;
+    margin: 0 auto;
+}
+.project__card__info{
+    color: var(--white);
+
+    flex-direction: column;
+    padding: 3px 0 3px 19px;
+
+}
+.progect__cart__amount{
+    font-size: 1.3125rem;
+    font-weight: 500;
+    line-height: 1;
+    padding-bottom: 8px;
+}
+.progect__card-name{
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.64;
+
+}
+
+/*process */
+
+.Process{
+    padding: 105px 10px 100px 0;
+}
+
+.container__process{
+
+
+}
+.process__title{
+
+    color: var(--black);
+    font-size: 2rem;
+    font-weight: 500;
+    line-height: 1;
+
+}
+.process__description{
+    margin: 0 auto;
+    padding-top:41px;
+    font-weight: 400;
+    font-size: 1rem;
+    line-height: 1.64;
+    padding-bottom: 49px;
+}
+.process__images__video{
+
+    display: inline-block;
+    margin: 0 auto;
+    position: relative;
+
+    width: 1110px;
+    height: 600px;
+}
+.process__image__background{
+
+
+    display: flex;
+    max-width: 100%;
+    height: 600px;
+    margin: 0 auto;
+
+}
+.process__image__play_button{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 100px;
+    height: 100px;
+    display: flex;
+    transform: translate(-50%, -50%);
+
+}
+.Contact {
+    background: var(--primary-color);
+    height: 150px;
+
+}
+.container__contact{
+height: 100%;
+    padding-top: 50px ;
+    padding-bottom: 50px ;
+}
+.contact__info{
+    color: var(--white);
+height: 12px;
+    line-height: 1.64;
+    padding-top: 17px;
+    font-size: 0.8125rem;
+    font-weight: 400;
+}
+.contact__name{
+    color: var(--white);
+    height: 19px;
+line-height: 1;
+font-size: 1.3125rem;
+    font-weight: 400;
+
+}
+.process__wrapper{
+    display: flex;
+}
+
+

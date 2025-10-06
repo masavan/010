@@ -4,62 +4,88 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="379cf658-154f-40c1-b031-a0c5aa1e62aa" name="Changes" comment="q1" />
+    <list default="true" id="4e9982a3-905b-4558-95a8-f0843c96b702" name="Changes" comment="perfect pixel all">
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="HTML File" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "masavan"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;masavan&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "git@github.com:masavan/010.git",
-    "accountId": "c858ebd7-3f00-4498-96d8-c11cd0a4ba19"
+}</component>
+  <component name="GitToolBoxStore">
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1759247351" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1759247350" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/masavan/09.git&quot;,
+    &quot;accountId&quot;: &quot;c858ebd7-3f00-4498-96d8-c11cd0a4ba19&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 5
-}]]></component>
-  <component name="ProjectId" id="33h43cg8dFIoPdCJCXFxjPjvNNy" />
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="33Q0oqbYv6SZuuOARg1WxIyWMat" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "junie.onboarding.icon.badge.shown": "true",
-    "last_opened_file_path": "C:/Users/maksu/OneDrive/Документи/програмування курс/010",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "to.speed.mode.migration.done": "true",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;JavaScript Debug.index.html.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/maksu/OneDrive/Документи/програмування курс/09&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -69,37 +95,164 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="379cf658-154f-40c1-b031-a0c5aa1e62aa" name="Changes" comment="" />
-      <created>1759755772244</created>
+      <changelist id="4e9982a3-905b-4558-95a8-f0843c96b702" name="Changes" comment="" />
+      <created>1759234165700</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1759755772244</updated>
-      <workItem from="1759755773457" duration="1972000" />
+      <updated>1759234165700</updated>
+      <workItem from="1759234166774" duration="21471000" />
+      <workItem from="1759350606472" duration="3593000" />
+      <workItem from="1759408162988" duration="21499000" />
+      <workItem from="1759569075053" duration="8725000" />
+      <workItem from="1759751191317" duration="5687000" />
     </task>
-    <task id="LOCAL-00001" summary="q1">
+    <task id="LOCAL-00001" summary="container">
       <option name="closed" value="true" />
-      <created>1759755992405</created>
+      <created>1759247387632</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1759755992405</updated>
+      <updated>1759247387632</updated>
     </task>
-    <task id="LOCAL-00002" summary="q1">
+    <task id="LOCAL-00002" summary="container">
       <option name="closed" value="true" />
-      <created>1759758063939</created>
+      <created>1759247564181</created>
       <option name="number" value="00002" />
       <option name="presentableId" value="LOCAL-00002" />
       <option name="project" value="LOCAL" />
-      <updated>1759758063939</updated>
+      <updated>1759247564181</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="container">
+      <option name="closed" value="true" />
+      <created>1759247685455</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1759247685455</updated>
+    </task>
+    <task id="LOCAL-00004" summary="container">
+      <option name="closed" value="true" />
+      <created>1759248190932</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1759248190932</updated>
+    </task>
+    <task id="LOCAL-00005" summary="01">
+      <option name="closed" value="true" />
+      <created>1759263233769</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1759263233769</updated>
+    </task>
+    <task id="LOCAL-00006" summary="01">
+      <option name="closed" value="true" />
+      <created>1759263619202</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1759263619202</updated>
+    </task>
+    <task id="LOCAL-00007" summary="02">
+      <option name="closed" value="true" />
+      <created>1759354223078</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1759354223079</updated>
+    </task>
+    <task id="LOCAL-00008" summary="02">
+      <option name="closed" value="true" />
+      <created>1759435096646</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1759435096646</updated>
+    </task>
+    <task id="LOCAL-00009" summary="04">
+      <option name="closed" value="true" />
+      <created>1759438618957</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1759438618957</updated>
+    </task>
+    <task id="LOCAL-00010" summary="05">
+      <option name="closed" value="true" />
+      <created>1759659913704</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1759659913705</updated>
+    </task>
+    <task id="LOCAL-00011" summary="perfect pixel heder and about">
+      <option name="closed" value="true" />
+      <created>1759696417318</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1759696417318</updated>
+    </task>
+    <task id="LOCAL-00012" summary="поправка about me">
+      <option name="closed" value="true" />
+      <created>1759696535983</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1759696535983</updated>
+    </task>
+    <task id="LOCAL-00013" summary=".">
+      <option name="closed" value="true" />
+      <created>1759698518024</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1759698518024</updated>
+    </task>
+    <task id="LOCAL-00014" summary="perfect pixel all">
+      <option name="closed" value="true" />
+      <created>1759752436051</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1759752436051</updated>
+    </task>
+    <task id="LOCAL-00015" summary="perfect pixel all">
+      <option name="closed" value="true" />
+      <created>1759755582251</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1759755582251</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="q1" />
-    <option name="LAST_COMMIT_MESSAGE" value="q1" />
+    <MESSAGE value="container" />
+    <MESSAGE value="01" />
+    <MESSAGE value="02" />
+    <MESSAGE value="04" />
+    <MESSAGE value="05" />
+    <MESSAGE value="perfect pixel heder and about" />
+    <MESSAGE value="поправка about me" />
+    <MESSAGE value="." />
+    <MESSAGE value="perfect pixel all" />
+    <option name="LAST_COMMIT_MESSAGE" value="perfect pixel all" />
   </component>
 </project>
