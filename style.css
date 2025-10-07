@@ -198,7 +198,7 @@ ul{
 /*process */
 
 .Process{
-    padding: 105px 10px 100px 0;
+    padding: 105px 0 100px 0;
 }
 
 .container__process{
@@ -278,5 +278,96 @@ font-size: 1.3125rem;
 .process__wrapper{
     display: flex;
 }
+@media screen and (min-width: 375px)  and (max-width: 600px){
+    :root{
+        font-size: 14px;
+    }
+
+    .description{
+
+        display: inline;
+
+
+    }
+    .header{
+    padding-top:10px;
+    }
+    .container {
+        padding:0 10px;
+
+    }
+    .navigation{
+        padding: 0 0 0 30px;
+        margin: 0;
+
+
+    }
+    .navigation__list{
+        display: flex;
+        flex-wrap: wrap;
+        padding:0;
+
+    }
+    .header__description{
+    display: inline;
+    }
+    .container__project{
+        display: flex;
+        flex-wrap: wrap;
+        padding: 0;
+    }
+    .process__images__video{
+        padding-top: 15px;
+        height: 30%;
+    }
+    .process__image__background{
+        height: 30%;
+    }
+    .process__image__play_button{
+        height: 15%;
+        width: 15%;
+    }
+    .header__description{
+        padding-top: 50px;
+    }
+    .process__title{
+        padding-bottom: 30px;
+    }
+    .process__description{
+
+    }
+    .Process{
+        padding: 50px 0 50px 0;
+    }
+    .Contact{
+        padding: 0 0 0 5px;
+    }
+    .container__contact{
+        padding-top: 45px;
+    }
+}
+@media screen and (min-width: 601px)  and (max-width: 900px){
+    .Contact{
+        padding: 0 0 0 15px;
+    }
+
+    .Process{
+        padding: 0 10px 0 10px;
+    }
+    .process__images__video{
+        height: 30%;
+    }
+    .process__image__background{
+        height: 30%;
+    }
+    .process__image__play_button{
+        height: 15%;
+        width: 15%;
+    }
+    .process__title{
+        padding-top: 30px;
+    }
+}
+
 
 
